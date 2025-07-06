@@ -1,3 +1,4 @@
+14:59
 # Nuxt 3 Basic Starter
 Azure Static Web Apps allows you to easily build Nuxt 3 apps in minutes. Use this repo with the Nuxt 3 tutorial to build a new server-rendered site.
 
