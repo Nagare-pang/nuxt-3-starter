@@ -43,3 +43,4 @@ npm run preview
 ```
 
 Checkout the [deployment documentation](https://nuxt.com/docs/getting-started/deployment#deployment) for more information.
+12:44
